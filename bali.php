@@ -434,7 +434,7 @@
             <div class="col filterDiv all pkg-4n5d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=686e354caa69db0a5f01e36a&currency=INR">
-                        <img src="images/bali/Bali Saver.png" class="card-img-top" alt="Bali Saver" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Bali Saver.png" class="card-img-top" alt="Bali Saver" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Bali Saver</h5>
@@ -451,7 +451,7 @@
             <div class="col filterDiv all pkg-4n5d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=6582c2467ad059403f8f1064&currency=INR">
-                        <img src="images/bali/Exciting Bali.png" class="card-img-top" alt="Exciting Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Exciting Bali.png" class="card-img-top" alt="Exciting Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Exciting Bali</h5>
@@ -468,7 +468,7 @@
             <div class="col filterDiv all pkg-4n5d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=687bb143b159dc54ada2ec24&currency=INR">
-                        <img src="images/bali/Bali.png" class="card-img-top" alt="Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Bali.png" class="card-img-top" alt="Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Bali</h5>
@@ -485,7 +485,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=657c011223f2f516afca481e&currency=INR">
-                        <img src="images/bali/Bali Escape.png" class="card-img-top" alt="Bali Escape" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Bali Escape.png" class="card-img-top" alt="Bali Escape" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Bali Escape</h5>
@@ -502,7 +502,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=68384773d3b95d0a36053362&currency=INR">
-                        <img src="images/bali/Pristine Bali.png" class="card-img-top" alt="Pristine Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Pristine Bali.png" class="card-img-top" alt="Pristine Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Pristine Bali</h5>
@@ -519,7 +519,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=687644d3b159dc54ada29e1a&currency=INR">
-                        <img src="images/bali/Soulful Bali.png" class="card-img-top" alt="Soulful Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Soulful Bali.png" class="card-img-top" alt="Soulful Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Soulful Bali</h5>
@@ -536,7 +536,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=6874fff1b159dc54ada27f61&currency=INR">
-                        <img src="images/bali/Bali Experience.png" class="card-img-top" alt="Bali Experience" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Bali Experience.png" class="card-img-top" alt="Bali Experience" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Bali Experience</h5>
@@ -553,7 +553,7 @@
             <div class="col filterDiv all pkg-7n8d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=666a88a68a9f1f193f741318&currency=INR">
-                        <img src="images/bali/Blissful Bali.png" class="card-img-top" alt="Blissful Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Blissful Bali.png" class="card-img-top" alt="Blissful Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Blissful Bali</h5>
@@ -570,7 +570,7 @@
             <div class="col filterDiv all pkg-7n8d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=666a855b8a9f1f193f74128f&currency=INR">
-                        <img src="images/bali/Tropical Bali.png" class="card-img-top" alt="Tropical Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Tropical Bali.png" class="card-img-top" alt="Tropical Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Tropical Bali</h5>
@@ -587,7 +587,7 @@
             <div class="col filterDiv all pkg-7n8d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=666a825d8a9f1f193f7411f8&currency=INR">
-                        <img src="images/bali/Serene Bali.png" class="card-img-top" alt="Serene Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Serene Bali.png" class="card-img-top" alt="Serene Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Serene Bali</h5>
@@ -604,7 +604,7 @@
             <div class="col filterDiv all pkg-9n10d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=666a8b838a9f1f193f74146b&currency=INR">
-                        <img src="images/bali/Grand Tour of Bali.png" class="card-img-top" alt="Grand Tour of Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Grand Tour of Bali.png" class="card-img-top" alt="Grand Tour of Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Grand Tour of Bali</h5>
@@ -621,7 +621,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=6870d9ddb159dc54ada2403b&currency=INR">
-                        <img src="images/bali/Bali Trails.png" class="card-img-top" alt="Bali Trails" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Bali Trails.png" class="card-img-top" alt="Bali Trails" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Bali Trails</h5>
@@ -638,7 +638,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=68105c1e8725510a106ba486&currency=INR">
-                        <img src="images/bali/Beautiful Bali-Ex Kolkata.png" class="card-img-top" alt="Beautiful Bali-Ex Kolkata" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Beautiful Bali-Ex Kolkata.png" class="card-img-top" alt="Beautiful Bali-Ex Kolkata" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Beautiful Bali-Ex Kolkata</h5>
@@ -655,7 +655,7 @@
             <div class="col filterDiv all pkg-5n6d">
                 <div class="card shadow-sm border-0 h-100">
                     <a href="https://www.zenithholidays.com/holiday/details?id=6855499ffbba3f0a68f61aa5&currency=INR">
-                        <img src="images/bali/Highlights Of Bali.png" class="card-img-top" alt="Highlights Of Bali" style="height: 200px; object-fit: cover;">
+                        <img src="images/bali/Highlights Of Bali.png" class="card-img-top" alt="Highlights Of Bali" style="height: auto; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title fw-semibold">Highlights Of Bali</h5>
